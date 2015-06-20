@@ -14,3 +14,6 @@ Works?
 No one needs to have an account to see how collaborative writing looks like
 People can sign up later
 Once sign up, then everything is open for them
+
+## Use Dropbox to share files privately, then use github to post to Authorea
+Works?
